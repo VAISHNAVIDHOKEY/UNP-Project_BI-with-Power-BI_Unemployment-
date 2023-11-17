@@ -13,4 +13,4 @@ Key highlights:
 
 PBIX file Link: https://drive.google.com/file/d/18dcr1Ra1JP4Gbp2oINn-jyIiLReBUBRU/view?usp=sharing
 PDF Link: https://drive.google.com/file/d/1J50UuvUWDJxZZ3-z6mAKMGrPYZthhS48/view?usp=sharing
-PPT Link: https://docs.google.com/presentation/d/1Mjrysw7G6Zko71fBHglip--brjgmOnz9/edit?usp=sharing&ouid=112289090707937140480&rtpof=true&sd=true
+PPT Link: https://docs.google.com/presentation/d/1ARtG8uGYyd6gZ419J6UFMKm7Su3zaeH0/edit?usp=sharing&ouid=112289090707937140480&rtpof=true&sd=true
