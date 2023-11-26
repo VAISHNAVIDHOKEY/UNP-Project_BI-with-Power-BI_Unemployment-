@@ -46,6 +46,8 @@ Key Highlights:
 3.Used DAX to perform data transformations and computations for precise reporting and analysis.
 
 PBIX File Link:-https://drive.google.com/file/d/18dcr1Ra1JP4Gbp2oINn-jyIiLReBUBRU/view?usp=sharing
+
 PDF File Link:-https://drive.google.com/file/d/1J50UuvUWDJxZZ3-z6mAKMGrPYZthhS48/view?usp=sharing
+
 PPT File Link:https://docs.google.com/presentation/d/1ARtG8uGYyd6gZ419J6UFMKm7Su3zaeH0/edit?usp=sharing&ouid=112289090707937140480&rtpof=true&sd=true
  
